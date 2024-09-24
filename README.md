@@ -49,14 +49,14 @@ Este é o primeiro projeto de programação de dispositivos móveis para a disci
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu_usuario/nome_do_repositorio.git
+   git clone https://github.com/AleffSSouza/Projeto01-PDM-imc.git
    
 *Como Executar o Projeto
 **Clone o repositório:
 
 bash
 Copiar código
-git clone https://github.com/seu_usuario/nome_do_repositorio.git
+git clone https://github.com/AleffSSouza/Projeto01-PDM-imc.git
 Navegue até o diretório do projeto:
 
 bash
